@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zzlple/AndroidStudioProjects/Vuforia559_jPCT-AE-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/logo.png",
+        "source": "/Users/zzlple/AndroidStudioProjects/Vuforia559_jPCT-AE-master/app/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/Users/zzlple/AndroidStudioProjects/Vuforia559_jPCT-AE-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/Users/zzlple/AndroidStudioProjects/Vuforia559_jPCT-AE-master/app/src/main/res/drawable-hdpi/icon.png"
+    }
+]

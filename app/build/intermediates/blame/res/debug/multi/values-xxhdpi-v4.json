@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "E:\\androidhome\\Vuforia559_jPCT-AE-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "E:\\androidhome\\Vuforia559_jPCT-AE-master\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 47,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 48,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "E:\\androidhome\\Vuforia559_jPCT-AE-master\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 48,
+                        "endOffset": 148
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Users\\zzlple\\AndroidStudioProjects\\Vuforia559_jPCT-AE-master\\app\\build\\intermediates\\res\\merged\\debug\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "E:\\Users\\zzlple\\AndroidStudioProjects\\Vuforia559_jPCT-AE-master\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 47,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 48,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "E:\\Users\\zzlple\\AndroidStudioProjects\\Vuforia559_jPCT-AE-master\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 48,
+                        "endOffset": 148
+                    }
+                }
+            }
+        ]
+    }
+]

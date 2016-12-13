@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Users\\zzlple\\AndroidStudioProjects\\Vuforia559_jPCT-AE-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo.png",
+        "source": "E:\\Users\\zzlple\\AndroidStudioProjects\\Vuforia559_jPCT-AE-master\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\androidhome\\Vuforia559_jPCT-AE-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\soilder.jpg",
+        "source": "E:\\androidhome\\Vuforia559_jPCT-AE-master\\app\\src\\main\\res\\drawable-xhdpi\\soilder.jpg"
+    },
+    {
+        "merged": "E:\\Users\\zzlple\\AndroidStudioProjects\\Vuforia559_jPCT-AE-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "E:\\Users\\zzlple\\AndroidStudioProjects\\Vuforia559_jPCT-AE-master\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    }
+]

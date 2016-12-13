@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\androidhome\Vuforia559_jPCT-AE-master\app\libs\jpct_ae.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c041cea0610a8c1c1b22486e026d519bc7713333">
+        <dex dex="E:\androidhome\Vuforia559_jPCT-AE-master\app\build\intermediates\pre-dexed\debug\jpct_ae_0e9f36dd2a2bba7dd52f98b21b0af42c7a939167.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidhome\Vuforia559_jPCT-AE-master\app\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f5b9729417d9e86d9bba6068e4a84f05ace53fd4">
+        <dex dex="E:\androidhome\Vuforia559_jPCT-AE-master\app\build\intermediates\pre-dexed\debug\Vuforia_febe10926c081257bcbc51ca92cda00971f62881.jar" />
+    </item>
+
+</items>
